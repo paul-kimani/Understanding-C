@@ -18,3 +18,6 @@ to begin with.
 
 We are briefly get to interact with the while loop using the C syntax and understand its structure.
 
+Using the same example, we get to make a for loop and see the different structure the program can take, using the for loop we are able to do away with most of the declared variables and make the program way shorter and simpler.
+
+

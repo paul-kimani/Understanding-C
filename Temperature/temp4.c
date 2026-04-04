@@ -2,7 +2,7 @@
 
 /* To define the variables*/
 
-#define LOWER 0 /* the lower linit of thne table*/
+#define LOWER 0 /* the lower limit of the table*/
 #define UPPER 300 /*to define the upper value of the table*/
 #define STEP 20 /*the step size */
 
